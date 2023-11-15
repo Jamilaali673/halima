@@ -1,0 +1,17 @@
+body{
+    background-color: gray;
+
+}
+.WEDO{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 50%
+}
+.wedo{
+    text-align: center;
+}
+/* img{
+    margin: 100px;
+} */
+
